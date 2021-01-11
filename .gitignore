@@ -1,0 +1,9 @@
+engine-venv/
+__pycache__/
+__pycache__
+exp-log/
+db.json
+exp-log-old/
+savedPics/
+cluster pics/
+.vscode/
